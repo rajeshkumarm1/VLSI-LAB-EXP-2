@@ -146,12 +146,16 @@ endmodule
 # RTL Design
 # Multiplexer
 <img width="761" alt="324391413-85c03dbc-f941-4c48-9ddf-49f4ab5342c4" src="https://github.com/rajeshkumarm1/VLSI-LAB-EXP-2/assets/160701441/c78efef7-efcf-4074-9c34-f31dfae93233">
+
 # Magnitude Comparator
 <img width="761" alt="324391559-581f136c-8f0f-40aa-981b-b8299e269f9d" src="https://github.com/rajeshkumarm1/VLSI-LAB-EXP-2/assets/160701441/2ab32a71-f651-4890-87ed-812fdbbdc6a4">
+
 # Demultiplier
 <img width="767" alt="324391625-8e681a69-d96e-489a-bea1-b9e273d43b94" src="https://github.com/rajeshkumarm1/VLSI-LAB-EXP-2/assets/160701441/b325232e-4276-41e6-bf28-41c1aafe6807">
+
 # 8 to 3 Encoder
 <img width="764" alt="324391719-08f3ff7c-b9e5-469b-8bb8-53c980cd1ca0" src="https://github.com/rajeshkumarm1/VLSI-LAB-EXP-2/assets/160701441/b21550cb-ae44-44e8-8084-00eb2304838f">
+
 # 3 to 8 Decoder
 <img width="766" alt="324391783-d3549f3d-02f0-47f0-ad57-e5022d165e3b" src="https://github.com/rajeshkumarm1/VLSI-LAB-EXP-2/assets/160701441/9d89e3a1-64c0-4905-b390-5fdad0d32cb3">
 
